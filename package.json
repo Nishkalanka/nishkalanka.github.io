@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nishkalanka.github.io/nishkalanka/",
+  "homepage": "https://nishkalanka.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
